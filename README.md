@@ -32,7 +32,7 @@ git clone https://github.com/Ved-Khajone23/ToDo_usingPureCPP.git
 
 ### To edit and makes changes in code 
 
-to create ur own app by this methord clone walnur and run *scripts.bat* file to create a Vs file
+to create ur own app by this methord clone walnur and run *scripts.bat* file to create a VS file
 ```bash
 https://github.com/StudioCherno/Walnut.git
 ```
