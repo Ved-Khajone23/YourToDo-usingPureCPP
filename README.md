@@ -31,5 +31,12 @@ git clone https://github.com/Ved-Khajone23/ToDo_usingPureCPP.git
 - Mobile-friendly version with adaptive UI.
 
 ### To edit and makes changes in code 
+
+to create ur own app by this methord clone walnur and run *scripts.bat* file to create a Vs file
+```bash
+https://github.com/StudioCherno/Walnut.git
+```
 Open the project in Visual Studio 2022 (or compatible IDE).
 Build the way u like and run the application.
+
+*Special Thanks to **The Cherno** for telling about this Walnur  and ImGui frame work and library*
