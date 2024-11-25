@@ -1,4 +1,4 @@
-### ** *To-Do Application* **
+### To-Do Application
 ## Made using only CPP
 ## A sleek, **minimalist** To-Do application built using the **Walnut Framework and ImGui**. This app is designed for productivity enthusiasts who value functionality and aesthetics.
 
@@ -14,7 +14,7 @@
 -Walnut Framework: Lightweight GUI framework for rendering and application structure.
 -ImGui: Immediate mode GUI library for rendering the interface.
 
-##image
+![ToDo](./Images/ToDo Image.png)
 
 ## Setup & Installation
 Clone this repository:
