@@ -14,7 +14,7 @@
 - **Walnut Framework:** Lightweight GUI framework for rendering and application structure.
 - **ImGui**: Immediate mode GUI library for rendering the interface.
 
-![ToDo([./Images/ToDo Image.png](https://github.com/Ved-Khajone23/ToDo_usingPureCPP/blob/main/Images/ToDo_Image.png))
+![ToDo](https://github.com/Ved-Khajone23/ToDo_usingPureCPP/blob/main/Images/ToDo_Image.png)
 
 ## Setup & Installation
 Clone this repository:
