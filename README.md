@@ -1,5 +1,7 @@
 # **To-Do Application**
 ## Made using only CPP
+
+## My First CPP application
 ## A sleek, *minimalist* To-Do application built using the **Walnut Framework and ImGui**. This app is designed for productivity enthusiasts who value functionality and aesthetics.
 
 ## Features
@@ -18,10 +20,11 @@
 
 ## Setup & Installation
 Clone this repository:
-
 ```bash
 git clone https://github.com/Ved-Khajone23/ToDo_usingPureCPP.git
 ```
+## *To use for yur self just download and run ToDo.exe*
+
 ## Planned Enhancements
 - Add task deadline functionality.
 - Integration with cloud storage for saving tasks.
